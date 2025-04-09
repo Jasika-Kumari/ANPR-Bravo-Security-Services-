@@ -30,7 +30,7 @@ In response to the increasing demand for automated vehicle monitoring, this ANPR
 ## 🏗️ How to Run the Project
 ### 1️⃣ Clone the Repository
 ```bash
-  git clone https://github.com/your-username/anpr-system.git
+  git clone https://github.com/Jasika-Kumari/ANPR-Bravo-Security-Services-.git
   cd anpr-system
 ```
 
